@@ -35,15 +35,15 @@ From the project root:
 mvn spring-boot:run
 ```
 
-The application starts on port `8080` by default.
+The application starts on port `8085` by default.
 
 ---
 
 ## Interactive Documentation & Tools
 
-- **Swagger UI**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-- **OpenAPI JSON Spec**: [http://localhost:8080/api-docs](http://localhost:8080/api-docs)
-- **H2 Web Console**: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+- **Swagger UI**: [http://localhost:8085/swagger-ui.html](http://localhost:8085/swagger-ui.html)
+- **OpenAPI JSON Spec**: [http://localhost:8085/api-docs](http://localhost:8085/api-docs)
+- **H2 Web Console**: [http://localhost:8085/h2-console](http://localhost:8085/h2-console)
   - **JDBC URL**: `jdbc:h2:mem:basicapidb`
   - **User Name**: `sa`
   - **Password**: *(leave blank)*
